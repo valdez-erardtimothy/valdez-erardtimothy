@@ -21,7 +21,7 @@ I'm currently pursuing a career on Web Development. :computer:
   - But I'm open on learning about UI/UX.
 - :philippines: I'm from Philippines 
 - :video_game: I'm interested about video games and game development!
-- :brain: My learning goals for web development for now are TypeScript, Vue, and ASP.NET Core
+- :brain: My learning goals for web development for now are TypeScript, Spring Boot, and ASP.NET Core
 
 
 
